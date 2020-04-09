@@ -54,7 +54,7 @@
     "getstats": "latest",
     "multistreamsmixer": "latest",
     "recordrtc": "latest",
-    "rtcmulticonnection-server": "latest",
+    "rtcmulticonnection-server": "git+https://git@github.com/scopsy/RTCMultiConnection-Server.git",
     "socket.io": "latest",
     "webrtc-adapter": "latest"
   },
